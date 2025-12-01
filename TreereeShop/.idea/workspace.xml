@@ -1,33 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb19e881-0829-456d-a6b2-a304a637d208" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../k23cnt3.bttDay04.1/k23cnt3.bttDay04.1/src/main/java/k23cnt3/bttDay041/controller/BttUsersController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../k23cnt3.bttDay04.1/k23cnt3.bttDay04.1/src/main/java/k23cnt3/bttDay041/dto/BttUsersDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../k23cnt3.bttDay04.1/k23cnt3.bttDay04.1/src/main/java/k23cnt3/bttDay041/entity/BttUsers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../k23cnt3.bttDay04.1/k23cnt3.bttDay04.1/src/main/java/k23cnt3/bttDay041/service/BttUsersService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../k23cnt3.bttDay04/k23cnt3.bttDay04/src/main/java/k23cnt3/bttDay04/dto/BttUsersDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../k23cnt3.bttDay04/k23cnt3.bttDay04/src/main/java/k23cnt3/bttDay04/entity/BttUsers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../k23cnt3.bttDay04/k23cnt3.bttDay04/src/main/java/k23cnt3/bttDay04/service/BttUsersService.java" afterDir="false" />
+    <list default="true" id="8cac3a39-b0eb-485c-b245-2146d991a91b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TreereeShop/src/main/java/com/treeree/shop/cart/CartController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TreereeShop/src/main/java/com/treeree/shop/cart/CartItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TreereeShop/src/main/java/com/treeree/shop/catalog/Brand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TreereeShop/src/main/java/com/treeree/shop/catalog/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TreereeShop/src/main/java/com/treeree/shop/catalog/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TreereeShop/src/main/java/com/treeree/shop/catalog/ProductImage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TreereeShop/src/main/java/com/treeree/shop/catalog/ProductPageController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TreereeShop/src/main/java/com/treeree/shop/catalog/ProductRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TreereeShop/src/main/java/com/treeree/shop/catalog/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TreereeShop/src/main/java/com/treeree/shop/order/CheckoutController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TreereeShop/src/main/java/com/treeree/shop/order/OrderEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TreereeShop/src/main/java/com/treeree/shop/order/OrderItemEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TreereeShop/src/main/java/com/treeree/shop/order/OrderItemRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TreereeShop/src/main/java/com/treeree/shop/order/OrderRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TreereeShop/src/main/java/com/treeree/shop/order/OrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TreereeShop/src/main/java/com/treeree/shop/review/ReviewController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TreereeShop/src/main/java/com/treeree/shop/review/ReviewEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TreereeShop/src/main/java/com/treeree/shop/review/ReviewRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TreereeShop/src/main/java/com/treeree/shop/security/AuthController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TreereeShop/src/main/java/com/treeree/shop/security/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TreereeShop/src/main/resources/templates/cart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TreereeShop/src/main/resources/templates/checkout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TreereeShop/src/main/resources/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TreereeShop/src/main/resources/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TreereeShop/src/main/resources/templates/product-detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TreereeShop/src/main/resources/templates/reviews.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TreereeShop.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../TreereeShop.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/TreereeShop.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TreereeShop.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TreereeShop/src/main/java/TreereeShop/TreereeShopApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TreereeShop/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TreereeShop/src/test/java/TreereeShop/TreereeShopApplicationTests.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Interface" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
   "associatedIndex": 5
 }]]></component>
-  <component name="ProjectId" id="36Eab68PbouzQ6IiJ8dKL3VK2KJ" />
+  <component name="ProjectId" id="36EeFRfEzHkDZ4yCNtt57kl94TA" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.TreereeShopApplication.executor": "Run",
+    "DefaultHtmlFileTemplate": "HTML File",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -45,11 +93,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="cb19e881-0829-456d-a6b2-a304a637d208" name="Changes" comment="" />
-      <created>1764574253062</created>
+      <changelist id="8cac3a39-b0eb-485c-b245-2146d991a91b" name="Changes" comment="" />
+      <created>1764576055095</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1764574253062</updated>
+      <updated>1764576055095</updated>
     </task>
     <servers />
   </component>
